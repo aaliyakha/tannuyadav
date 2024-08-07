@@ -1,0 +1,10 @@
+.contacttag{
+    position: absolute;
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top: -22%;
+    margin-left: 38%;
+}
